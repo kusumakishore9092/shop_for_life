@@ -1,0 +1,19 @@
+.homepage {
+  position: relative;
+  &__image {
+    height: 100%;
+    width: 100%;
+    position: relative;
+  }
+  &__arrow {
+    bottom: 5rem;
+    position: relative;
+    z-index: 2;
+    max-width: 4%;
+    left: 50%;
+  }
+
+  &__arrow:hover {
+    cursor: pointer;
+  }
+}

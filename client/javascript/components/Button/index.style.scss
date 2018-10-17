@@ -1,0 +1,16 @@
+.wrapper {
+  .primary-button {
+    margin-top: 2rem;
+    color: white;
+    background-color: teal;
+    border-color: teal;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+  }
+
+  .primary-button:hover {
+    color: teal;
+    background-color: white;
+    border-color: teal;
+  }
+}
